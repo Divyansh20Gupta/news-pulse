@@ -4,7 +4,7 @@ A full-stack system that pulls live articles from news RSS feeds, automatically 
 
 **Live:** https://news-pulse-rho-lyart.vercel.app/ 
 **Backend API:** https://news-pulse-backend-qbsl.onrender.com
-**Video walkthrough:** *(add Loom/unlisted YouTube link here)*
+**Video walkthrough:** https://drive.google.com/file/d/1dKQeQBGUQnFo4CxvuY2g57hHupyAxkb7/view?usp=sharing
 
 ---
 
